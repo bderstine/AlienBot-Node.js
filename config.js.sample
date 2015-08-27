@@ -1,0 +1,9 @@
+'use strict';
+
+// Rename this file to config.js and update the variables
+module.exports = {
+	PORT: 3000,
+	INCOMING_WEBHOOK_PATH: '',
+        TOKEN: '',
+	API_URI: ''
+};
